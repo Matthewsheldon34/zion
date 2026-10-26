@@ -1,0 +1,13 @@
+:root {
+  color-scheme: dark;
+  --ink: #f8f4ec;
+  --muted: #c9c2b6;
+  --background: #101a1b;
+  --background-light: #172323;
+  --surface: #1b2928;
+  --gold: #d9ad68;
+  --gold-light: #f0d5a2;
+  --green: #466b55;
+  --line: rgba(248, 244, 236, 0.13);
+  --content-width: 1120px;
+}
