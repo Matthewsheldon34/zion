@@ -175,7 +175,7 @@ function Home() {
                   />
                   <span className="absolute -inset-1 rounded-full border border-[#00ffc3]/30 animate-spin-slow"></span>
                 </div>
-                <span className="text-3xl font-bold bg-gradient-to-r from-[#00ffc3] via-[#7ae9ff] to-[#b28aff] bg-clip-text text-transparent animate-shimmer-text">
+                <span className="text-3xl font-bold bg-linear-to-r from-[#00ffc3] via-[#7ae9ff] to-[#b28aff] bg-clip-text text-transparent animate-shimmer-text">
                   Zion
                 </span>
               </a>
